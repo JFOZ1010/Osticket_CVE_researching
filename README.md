@@ -2,7 +2,7 @@
 
 > **Broken Object Level Authorization (BOLA) — Insecure Direct Object Reference (IDOR)**  
 > `include/ajax.tickets.php` → `viewField()` function  
-> Reported by [@JF0x0r](https://github.com/JFOZ1010) · March 27, 2026
+> Reported by [@JF0x0r](https://x.com/PwnedRar_) · March 27, 2026
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## Who Am I
 
-I'm Juan Felipe Oz ([@JF0x0r](https://github.com/JFOZ1010)), a security researcher passionate about open source security. I don't do this for bounties — I do it because I believe the tools people rely on should be safe. When I find something, I report it responsibly, document it properly, and share it publicly once it's fixed.
+I'm Juan Felipe Oz ([@JF0x0r](https://www.linkedin.com/in/juanfelipeoz/)), a security researcher passionate about open source security. I don't do this for bounties — I do it because I believe the tools people rely on should be safe. When I find something, I report it responsibly, document it properly, and share it publicly once it's fixed.
 
 ---
 
