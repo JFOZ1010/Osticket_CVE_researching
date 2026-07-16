@@ -1,4 +1,4 @@
-# CVE-2026-XXXX - BOLA / IDOR in osTicket `ajax.tickets.php`
+# CVE-2026-14871 - BOLA / IDOR in osTicket `ajax.tickets.php`
 
 > **Broken Object Level Authorization (BOLA): Insecure Direct Object Reference (IDOR)**  
 > `include/ajax.tickets.php` → `viewField()` function  
